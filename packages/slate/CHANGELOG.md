@@ -1,5 +1,11 @@
 # slate
 
+## 0.72.4
+
+### Patch Changes
+
+- [#4769](https://github.com/ianstormtaylor/slate/pull/4769) [`0ca31e74`](https://github.com/ianstormtaylor/slate/commit/0ca31e74985cc15e81f941a34c00c10b88f2ca76) Thanks [@jameshfisher](https://github.com/jameshfisher)! - Warn when normalization removes node
+
 ## 0.72.3
 
 ### Patch Changes

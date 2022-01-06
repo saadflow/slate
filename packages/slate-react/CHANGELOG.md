@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.72.4
+
+### Patch Changes
+
+- [#4753](https://github.com/ianstormtaylor/slate/pull/4753) [`e9a46ad2`](https://github.com/ianstormtaylor/slate/commit/e9a46ad29e0376a45051c4a8100c5678784b785c) Thanks [@alessiogaldy](https://github.com/alessiogaldy)! - Fix "editor.insertText never gets called inside plugins on android"
+
 ## 0.72.2
 
 ### Patch Changes
